@@ -1,0 +1,8 @@
+{
+  "name": "10वी ONLINE EXAM",
+  "description": "Clean, distraction-free online examination system for 10th Standard Maharashtra SSC students, featuring timed tests, question palette, instant evaluation, answer review, and comprehensive admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

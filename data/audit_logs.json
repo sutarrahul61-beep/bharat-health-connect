@@ -1,0 +1,24 @@
+[
+  {
+    "id": "AUD-INIT-001",
+    "userId": "USR-SUPER-001",
+    "userName": "Rahul Sutar (Super Admin)",
+    "role": "SUPER_ADMIN",
+    "action": "SYSTEM_RBAC_INITIALIZED",
+    "targetRecord": "system",
+    "targetId": "RBAC_CORE",
+    "details": "Backend Role-Based Access Control and authentication active for 7 roles.",
+    "timestamp": "2026-09-21T08:00:00.000Z"
+  },
+  {
+    "id": "AUD-INIT-002",
+    "userId": "USR-COORD-003",
+    "userName": "Priya Sharma (Patient Coordinator)",
+    "role": "PATIENT_COORDINATOR",
+    "action": "DOCUMENT_VERIFIED",
+    "targetRecord": "document",
+    "targetId": "DOC-P01-001",
+    "details": "Verified Cardiac Evaluation Report for Patient BHC-P-000001.",
+    "timestamp": "2026-09-21T09:30:00.000Z"
+  }
+]

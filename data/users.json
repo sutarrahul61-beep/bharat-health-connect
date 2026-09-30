@@ -1,0 +1,76 @@
+[
+  {
+    "id": "USR-SUPER-001",
+    "name": "Rahul Sutar (Super Admin)",
+    "email": "sutarrahul61@gmail.com",
+    "role": "SUPER_ADMIN",
+    "token": "tok_super_admin_master_99812",
+    "phone": "+91 95275 19903",
+    "active": true
+  },
+  {
+    "id": "USR-ADMIN-002",
+    "name": "Executive Admin",
+    "email": "admin@bharathealthconnect.com",
+    "role": "ADMIN",
+    "token": "tok_admin_exec_78129",
+    "phone": "+91 95275 19904",
+    "active": true
+  },
+  {
+    "id": "USR-COORD-003",
+    "name": "Priya Sharma (Patient Coordinator)",
+    "email": "coordinator@bharathealthconnect.com",
+    "role": "PATIENT_COORDINATOR",
+    "token": "tok_patcoord_priya_41290",
+    "phone": "+91 98230 11223",
+    "active": true
+  },
+  {
+    "id": "USR-DOC-004",
+    "name": "Dr. Amit Patil (Doctor Coordinator)",
+    "email": "doctor.coord@bharathealthconnect.com",
+    "role": "DOCTOR_COORDINATOR",
+    "token": "tok_doccoord_patil_38192",
+    "phone": "+91 98230 44556",
+    "active": true
+  },
+  {
+    "id": "USR-CONTENT-005",
+    "name": "Sneha Joshi (Content Manager)",
+    "email": "content@bharathealthconnect.com",
+    "role": "CONTENT_MANAGER",
+    "token": "tok_content_sneha_27182",
+    "phone": "+91 98230 77889",
+    "active": true
+  },
+  {
+    "id": "USR-VIEW-006",
+    "name": "Audit Inspector (View Only)",
+    "email": "auditor@bharathealthconnect.com",
+    "role": "VIEW_ONLY",
+    "token": "tok_viewonly_audit_19283",
+    "phone": "+91 98230 99001",
+    "active": true
+  },
+  {
+    "id": "USR-PAT-001",
+    "name": "Rahul Sutar",
+    "email": "sutarrahul61@gmail.com",
+    "phone": "+91 95275 19903",
+    "role": "PATIENT",
+    "patientId": "BHC-P-000001",
+    "token": "pt_token_rahul_sutar_001",
+    "active": true
+  },
+  {
+    "id": "USR-PAT-002",
+    "name": "Rahim Al-Mansoor",
+    "email": "rahim.mansoor@example.com",
+    "phone": "+971 50 123 4567",
+    "role": "PATIENT",
+    "patientId": "BHC-P-000002",
+    "token": "pt_token_rahim_mansoor_002",
+    "active": true
+  }
+]

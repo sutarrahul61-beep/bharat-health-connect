@@ -1,0 +1,81 @@
+[
+  {
+    "id": "MSMT-716233",
+    "createdAt": "2026-09-21 02:20",
+    "name": "Rahul",
+    "country": "India",
+    "phone": "+91 95275 19903",
+    "email": "sutarrahul61@gmail.com",
+    "preferredLanguage": "Marathi",
+    "treatment": "General Healthcare / Speciality Consultation",
+    "preferredHospital": "Wanless Hospital (Miraj Medical Centre)",
+    "preferredDoctor": "Dr. C (Cardiologist)",
+    "message": "Patient enquiry submitted through the live website form. Reference ID MSMT-716233.",
+    "uploadedReports": [],
+    "status": "New",
+    "notes": "New live enquiry received via portal. Contact patient via WhatsApp or phone."
+  },
+  {
+    "id": "LEAD-2026-001",
+    "createdAt": "2026-09-18 10:30",
+    "name": "Rahim Al-Mansoor",
+    "country": "United Arab Emirates",
+    "phone": "+971 50 123 4567",
+    "email": "rahim.mansoor@example.com",
+    "preferredLanguage": "Arabic",
+    "treatment": "Orthopaedics - Knee Replacement",
+    "preferredHospital": "Wanless Hospital (Miraj Medical Centre)",
+    "preferredDoctor": "Chief Joint Replacement Surgeon",
+    "message": "Seeking evaluation for bilateral knee arthritis for my father (68 years). We have recent digital X-rays from Dubai.",
+    "uploadedReports": [
+      {
+        "name": "Bilateral_Knee_AP_Lateral_Xray.pdf",
+        "size": 3420000,
+        "type": "application/pdf"
+      },
+      {
+        "name": "Cardiology_Fitness_Summary.pdf",
+        "size": 1200000,
+        "type": "application/pdf"
+      }
+    ],
+    "status": "Reports Received",
+    "notes": "Reports shared with orthopaedic panel. Awaiting clinical review for preliminary estimate."
+  },
+  {
+    "id": "LEAD-2026-002",
+    "createdAt": "2026-09-17 16:15",
+    "name": "Amina Khatun",
+    "country": "Bangladesh",
+    "phone": "+880 171 987654",
+    "email": "amina.k@example.com",
+    "preferredLanguage": "Bengali",
+    "treatment": "Cardiology - Angioplasty Evaluation",
+    "preferredHospital": "Sevasadan Lifeline Superspeciality Hospital",
+    "message": "Doctor recommended cardiac stent in Dhaka. Need a second opinion on the procedure and estimated hospital duration.",
+    "uploadedReports": [
+      {
+        "name": "Angiogram_CD_Summary_Report.pdf",
+        "size": 4500000,
+        "type": "application/pdf"
+      }
+    ],
+    "status": "Doctor Review",
+    "notes": "Referred to senior interventional cardiologist for tele-consultation scheduling."
+  },
+  {
+    "id": "LEAD-2026-003",
+    "createdAt": "2026-09-16 14:40",
+    "name": "Prakash Sharma (NRI)",
+    "country": "United Kingdom",
+    "phone": "+44 7700 900123",
+    "email": "prakash.sharma@example.co.uk",
+    "preferredLanguage": "English",
+    "treatment": "Spine Surgery - Microdiscectomy",
+    "preferredHospital": "Samarth Neuro & Superspeciality Hospital",
+    "message": "Suffering from L4-L5 disc herniation with severe sciatica. Visiting Maharashtra next month, seeking hospital stay guidance.",
+    "uploadedReports": [],
+    "status": "Estimate Sent",
+    "notes": "Initial cost estimate and duration guideline shared. Coordinating travel dates around Diwali."
+  }
+]

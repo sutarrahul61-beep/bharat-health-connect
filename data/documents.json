@@ -1,0 +1,54 @@
+[
+  {
+    "id": "DOC-P01-001",
+    "patientId": "BHC-P-000001",
+    "name": "Comprehensive_Cardiac_Evaluation_Report.pdf",
+    "category": "Medical Reports",
+    "fileType": "application/pdf",
+    "fileSize": 2450000,
+    "uploadDate": "2026-09-19",
+    "uploadedBy": "patient",
+    "uploadedByName": "Rahul Sutar",
+    "status": "Verified",
+    "notes": "Verified by Dr. C (Cardiologist), Wanless Hospital Miraj."
+  },
+  {
+    "id": "DOC-P01-002",
+    "patientId": "BHC-P-000001",
+    "name": "Lipid_Profile_And_ECG_Summary.pdf",
+    "category": "Blood Reports",
+    "fileType": "application/pdf",
+    "fileSize": 1120000,
+    "uploadDate": "2026-09-18",
+    "uploadedBy": "coordinator",
+    "uploadedByName": "Priya Sharma",
+    "status": "Verified",
+    "notes": "Fasting blood panel."
+  },
+  {
+    "id": "DOC-P02-001",
+    "patientId": "BHC-P-000002",
+    "name": "Bilateral_Knee_AP_Lateral_Xray.pdf",
+    "category": "Medical Reports",
+    "fileType": "application/pdf",
+    "fileSize": 3420000,
+    "uploadDate": "2026-09-18",
+    "uploadedBy": "patient",
+    "uploadedByName": "Rahim Al-Mansoor",
+    "status": "Verified",
+    "notes": "Recent weight-bearing bilateral knee X-rays from Dubai."
+  },
+  {
+    "id": "DOC-P02-002",
+    "patientId": "BHC-P-000002",
+    "name": "Cardiology_PreOp_Fitness_Summary.pdf",
+    "category": "Doctor Reports",
+    "fileType": "application/pdf",
+    "fileSize": 1200000,
+    "uploadDate": "2026-09-17",
+    "uploadedBy": "coordinator",
+    "uploadedByName": "Priya Sharma",
+    "status": "Verified",
+    "notes": "Pre-anaesthesia fitness for robotic knee replacement."
+  }
+]
